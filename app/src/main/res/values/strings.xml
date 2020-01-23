@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVP_training</string>
+    <string name="btn_link_signup">Remember me </string>
+    <string name="btn_login">Login</string>
+    <string name="hint_email">Enter email</string>
+    <string name="hint_password">Enter password</string>
+</resources>
